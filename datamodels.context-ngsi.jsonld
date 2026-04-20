@@ -154,6 +154,15 @@
         "powerGrid": "fiware:powerGrid",
         "powerEVCharging": "fiware:powerEVCharging",
         "powerCogeneration": "fiware:powerCogeneration",
-        "powerSurplus": "fiware:powerSurplus"
+        "powerSurplus": "fiware:powerSurplus",
+        "acPowerInput": "fiware:acPowerInput",
+        "acPowerOutput": "fiware:acPowerOutput",
+        "dcPowerInput": "fiware:dcPowerInput",
+        "dcPowerOutput": "fiware:dcPowerOutput",
+        "cycleLife": "fiware:cycleLife",
+        "rechargeTime": "fiware:rechargeTime",
+        "status": "fiware:status",
+        "refDevice": "fiware:refDevice",
+        "autonomyTime": "fiware:autonomyTime"
     }
 }
